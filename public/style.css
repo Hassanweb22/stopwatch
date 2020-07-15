@@ -1,0 +1,93 @@
+ * {
+     margin: 0;
+     padding: 0; 
+     
+    } 
+
+    body {
+        font-style: italic ;
+    font-family: Arial, Helvetica, sans-serif;
+    /* background: linear-gradient(to left,#ab47bc,#f48fb1,#f06292) ; */
+background-color: #162c2a;
+font-family: -apple-system, 
+BlinkMacSystemFont, 
+"Segoe UI", 
+Roboto, 
+Oxygen-Sans, 
+Ubuntu, 
+Cantarell, 
+"Helvetica Neue", 
+sans-serif;
+}
+
+.matter {
+    text-align: center;
+    margin-top: 150px;
+}
+
+h1 {
+    color: cadetblue;
+    text-shadow: 0 0 3px rgb(14, 244, 252), 0 0 5px #032833;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 10px;
+}
+.made {
+    text-shadow: 0 0 3px rgb(14, 244, 252), 0 0 5px #000000;
+    display: block;
+    font-size: 20px !important;
+    /* margin-bottom: 30px; */
+    font-weight: bold;
+    margin-bottom: auto;
+    color: cadetblue;
+}
+
+h2 {
+    display: inline-block;
+    /* margin: 10px; */
+    width: 62px;
+color:#356b74;
+text-shadow:
+    0 0 5px #a6e7f1,
+    0 0 10px #a0e2ec,
+    0 0 20px rgb(153, 229, 194),
+    0 0 10px rgb(192, 245, 245),
+    0 0 0px #98d1da,
+    0 0 50px #8ddde9,
+    0 0 50px #87dce9,
+    0 0 250px #85ceda;
+      
+}
+
+
+h3 {
+    display: inline-block;
+    /* margin: 10px; */
+    width: 62px;
+color: #fff;
+text-shadow:
+    0 0 5px #fff,
+    0 0 10px #fff,
+    0 0 20px #fff,
+    0 0 40px #0ff,
+    0 0 0px #0ff,
+    0 0 50px #0ff,
+    0 0 50px #0ff,
+    0 0 100px #0ff;
+      
+}
+
+
+.btn:focus, .btn::active {
+    outline:0 !important;
+    border: none;
+}
+
+.btn{
+    font-style: italic;
+}
+ .second, .last{
+     margin-left: 2px;
+} 
+
+
+
